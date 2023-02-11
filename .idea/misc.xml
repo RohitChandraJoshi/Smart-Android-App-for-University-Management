@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/asd/AndroidStudioProjects/face_new/app/src/main/res/layout/activity_add_data.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/asd/AndroidStudioProjects/face_new/app/src/main/res/layout/activity_add_timetable.xml" value="0.2" />
+        <entry key="..\:/Users/asd/AndroidStudioProjects/face_new/app/src/main/res/layout/activity_college_absent.xml" value="0.25" />
+        <entry key="..\:/Users/asd/AndroidStudioProjects/face_new/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/asd/AndroidStudioProjects/face_new/app/src/main/res/layout/activity_marks_module.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/asd/AndroidStudioProjects/face_new/app/src/main/res/layout/activity_menu_page.xml" value="0.176" />
+        <entry key="..\:/Users/asd/AndroidStudioProjects/face_new/app/src/main/res/layout/activity_name_attendance.xml" value="0.171875" />
+        <entry key="..\:/Users/asd/AndroidStudioProjects/face_new/app/src/main/res/layout/activity_select_attendance.xml" value="0.25" />
+        <entry key="..\:/Users/asd/AndroidStudioProjects/face_new/app/src/main/res/layout/activity_slot_attendance.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/asd/AndroidStudioProjects/face_new/app/src/main/res/layout/activity_student_marks.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/asd/AndroidStudioProjects/face_new/app/src/main/res/layout/activity_timetable_module.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/asd/AndroidStudioProjects/face_new/app/src/main/res/layout/activity_view_timetable.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/asd/AndroidStudioProjects/face_new/app/src/main/res/layout/list_item.xml" value="0.1875" />
+        <entry key="..\:/Users/asd/AndroidStudioProjects/face_new/app/src/main/res/layout/list_item2.xml" value="0.312210200927357" />
+        <entry key="..\:/Users/asd/AndroidStudioProjects/face_new/app/src/main/res/layout/list_item3.xml" value="0.6" />
+        <entry key="..\:/Users/asd/AndroidStudioProjects/face_new/app/src/main/res/layout/list_item4.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/asd/AndroidStudioProjects/face_new/app/src/main/res/layout/list_item5.xml" value="0.2453125" />
+        <entry key="..\:/Users/asd/AndroidStudioProjects/face_new/app/src/main/res/layout/list_item6.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

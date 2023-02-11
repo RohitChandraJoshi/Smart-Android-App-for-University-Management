@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".Add_Data_Activity"
+    android:background="@drawable/menu">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enter Details"
+        android:textSize="28sp"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:hint="Name:"
+        android:id="@+id/edtName"
+        android:layout_marginTop="20dp"
+        android:inputType="textPersonName"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:hint="System ID:"
+        android:id="@+id/edtSystemid"
+        android:layout_marginTop="10dp"
+        android:inputType="phone"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:hint="Roll No:"
+        android:id="@+id/edtrollno"
+        android:layout_marginTop="10dp"
+        android:inputType="phone"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:hint="Subject:"
+        android:id="@+id/edtsubject"
+        android:layout_marginTop="10dp"
+        android:inputType="text"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:hint="Mte Marks:"
+        android:id="@+id/edtmte"
+        android:layout_marginTop="10dp"
+        android:inputType="phone"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:hint="Ete Marks:"
+        android:id="@+id/edtete"
+        android:layout_marginTop="10dp"
+        android:inputType="phone"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:hint="Ca Marks:"
+        android:id="@+id/edtca"
+        android:layout_marginTop="10dp"
+        android:inputType="phone"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:hint="Total Marks:"
+        android:id="@+id/edttotal"
+        android:layout_marginTop="10dp"
+        android:inputType="phone"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:hint="Grade:"
+        android:id="@+id/edtgrade"
+        android:layout_marginTop="10dp"
+        android:inputType="text"
+        />
+    <Button
+        android:id="@+id/btnInsert"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+
+        android:text="INSERT Data"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:layout_marginTop="20dp"
+        />
+
+</LinearLayout>
